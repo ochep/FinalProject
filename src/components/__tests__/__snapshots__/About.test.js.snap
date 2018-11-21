@@ -1,0 +1,11 @@
+exports[`About.test.js renders as expected 1`] = `
+<div
+  className="container">
+  <h1>
+    About My Project
+  </h1>
+  <p>
+    Project ini dibuat sebagai Final Project (Tugas Akhir) selama mengikuti React&React Native class. Jangan tanya koding detailnya yaa.. Boleh comot2 dari gugel&masih terus akan dikembangkan ^_^ Best Regards. Ochep
+  </p>
+</div>
+`;
